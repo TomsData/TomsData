@@ -1,3 +1,3 @@
-# TomsData
+# Tom's Data
 
-- Bleeding Edge Technology Startup
+- Bleeding Edge Technology Startup Company
