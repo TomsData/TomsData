@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomsData
 - 👀 I’m interested in buliding a portfolio to show off my data skills
-- 🌱 I’m currently learning SQL, Tableau, PowerBI
+- 🌱 I’m currently learning SQL, Tableau, PowerBI, Python and R
 - 💞️ I’m looking to collaborate on data projects.
 - 📫 How to reach me thomasredick24@gmail.com
 - 😄 Pronouns: ...
